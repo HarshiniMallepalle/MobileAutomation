@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10249" started-at="2023-04-13T00:15:38 EDT" finished-at="2023-04-13T00:15:48 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10249" started-at="2023-04-13T00:15:38 EDT" finished-at="2023-04-13T00:15:48 EDT">
+      <class name="com.mobile.testcase.MobileAutomation">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.mobile.testcase.MobileAutomation@43738a82]" name="beforeMethod" is-config="true" duration-ms="8251" started-at="2023-04-13T00:15:38 EDT" finished-at="2023-04-13T00:15:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateCalculator()[pri:0, instance:com.mobile.testcase.MobileAutomation@43738a82]" name="validateCalculator" duration-ms="1433" started-at="2023-04-13T00:15:46 EDT" finished-at="2023-04-13T00:15:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCalculator -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mobile.testcase.MobileAutomation@43738a82]" name="tearDown" is-config="true" duration-ms="538" started-at="2023-04-13T00:15:47 EDT" finished-at="2023-04-13T00:15:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mobile.testcase.MobileAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
